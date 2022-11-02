@@ -1,0 +1,30 @@
+{
+  "name": "alphafish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./bin/index.js"
+  },
+  "keywords": [],
+  "bin": {
+    "alpha": "./bin/index.js",
+    "a": "./bin/index.js"
+  },
+  "author": "shardul",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^2.0.90",
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1",
+    "conf": "^10.2.0",
+    "node-fetch": "^3.2.10",
+    "openai": "^3.0.1",
+    "ws": "^8.10.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.11.7",
+    "@types/ws": "^8.5.3"
+  }
+}
