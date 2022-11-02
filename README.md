@@ -1,5 +1,5 @@
 # AlphaFish
-NOT A FINANCIAL advise | 
+NOT A FINANCIAL ADVISE | 
 Cli to trade cryptocurrencies in an unique fashion.
 Currenlty only supports ftx.
 
