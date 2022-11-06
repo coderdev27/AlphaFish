@@ -6,7 +6,7 @@ Currenlty only supports ftx.
 To install this project on your local computer. 
 Clone this repo.
 Add your twitter bearer token and openai api keys.
-sudo npm install 
+sudo npm install then
 sudo npm install -g .
 
 Now you are ready to use the bot.
