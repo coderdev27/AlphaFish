@@ -2,7 +2,6 @@
 NOT A FINANCIAL ADVISE | 
 Cli to trade cryptocurrencies in an unique fashion.
 FTX IS INSOLVENT THIS BOT DOESN'T WORKS ANYMORE.
-Currenlty only supports ftx.
 
 To install this project on your local computer. 
 Clone this repo.
