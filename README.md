@@ -1,6 +1,7 @@
 # AlphaFish
 NOT A FINANCIAL ADVISE | 
 Cli to trade cryptocurrencies in an unique fashion.
+FTX IS INSOLVENT THIS BOT DOESN'T WORKS ANYMORE.
 Currenlty only supports ftx.
 
 To install this project on your local computer. 
@@ -42,8 +43,6 @@ Input twitter handle without @.
 By default it buys if sentiment is positive but you can override it by passing sell. E.x sentiment zerosumonly sell 10
 Tip : Use on someone who has huge influence like elon. 
 
-IF THIS BOT HELPS YOU IN ANY WAY CONSIDER USING THIS REFLINK OR DONATING SOME SHEKELS -  https://ftx.com/referrals#a=AlphaFish
-0xf3d78666b97f90ec78f5737fbef149160b4f5c8e
 
 MIT License
 
